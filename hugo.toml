@@ -15,6 +15,21 @@ favicon_32 = "/images/favicon-32x32.png"
 favicon_16 = "/images/favicon-16x16.png"
 
 [[menu.main]]
-name = "Jäseneksi"
+name = "Toiminta"
 weight = 1
+url = "/toiminta/"
+
+[[menu.main]]
+name = "Jäseneksi"
+weight = 2
 url = "/jäseneksi/"
+
+[[menu.main]]
+name = "Ilmomasiina"
+weight = 3
+url = "https://ilmo.kysseura.fi/"
+
+[[menu.main]]
+name = "Hallitus ja yhteystiedot"
+weight = 4
+url = "/hallitus/"
